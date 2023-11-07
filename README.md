@@ -1,3 +1,4 @@
 # Demo
-My first Git Repository
-Author - Arati Shah
+My first Git Repository.
+<br>
+Author: Arati Shah

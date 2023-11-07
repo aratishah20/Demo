@@ -1,2 +1,3 @@
 # Demo
-My first Git Respository
+My first Git Repository
+Author Arati Shah
